@@ -10,3 +10,5 @@ Or, how I used Python to turn this
 into this
 
 <img src='http://i.imgur.com/s22Y080.png' width='60%' height='60%'>
+
+[iPython notebook can be found here](http://nbviewer.ipython.org/7450741)
