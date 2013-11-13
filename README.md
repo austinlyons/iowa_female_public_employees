@@ -5,8 +5,8 @@ A chloropleth depicting percentage of public employees that are female in each c
 
 Or, how I used Python to turn this
 
-<img src='http://i.imgur.com/qdh2mJh.png?1'>
+<img src='http://i.imgur.com/qdh2mJh.png?1' width='60%' height='60%'>
 
 into this
 
-<img src='http://i.imgur.com/s22Y080.png'>
+<img src='http://i.imgur.com/s22Y080.png' width='60%' height='60%'>
