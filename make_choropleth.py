@@ -1,4 +1,4 @@
-## Making an Iowa cloropleth map using Python
+## Making an Iowa choropleth map using Python
 ## Namely, plotting percentage of public employees that are female in each county
 # imports
 import pandas as pd
