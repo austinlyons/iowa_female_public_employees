@@ -1,7 +1,7 @@
 iowa_female_public_employees
 ============================
 
-A chloropleth depicting percentage of public employees that are female in each county in Iowa.
+A choropleth depicting percentage of public employees that are female in each county in Iowa.
 
 Or, how I used Python to turn this
 
